@@ -1,1 +1,1 @@
-# sblog
+# sejong_blog
